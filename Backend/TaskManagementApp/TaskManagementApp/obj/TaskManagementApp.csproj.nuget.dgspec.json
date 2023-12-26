@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj": {}
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj",
         "projectName": "AssignmentServices",
-        "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj",
-        "packagesPath": "C:\\Users\\Valy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\AssignmentServices\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\AssignmentServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Valy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
-                "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
               }
             }
           }
@@ -59,21 +59,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj",
         "projectName": "CommonServices",
-        "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj",
-        "packagesPath": "C:\\Users\\Valy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Valy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -145,21 +145,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\PbiServices\\PbiServices.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\PbiServices\\PbiServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\PbiServices\\PbiServices.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\PbiServices\\PbiServices.csproj",
         "projectName": "PbiServices",
-        "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\PbiServices\\PbiServices.csproj",
-        "packagesPath": "C:\\Users\\Valy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\PbiServices\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\PbiServices\\PbiServices.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\PbiServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Valy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -173,11 +173,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
-                "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
               },
-              "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\TasksServices\\TasksServices.csproj": {
-                "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\TasksServices\\TasksServices.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\TasksServices\\TasksServices.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\TasksServices\\TasksServices.csproj"
               }
             }
           }
@@ -207,21 +207,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj",
         "projectName": "ProjectServices",
-        "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj",
-        "packagesPath": "C:\\Users\\Valy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\ProjectServices\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\ProjectServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Valy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -235,11 +235,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
-                "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
               },
-              "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\SprintService\\SprintServices.csproj": {
-                "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\SprintService\\SprintServices.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\SprintService\\SprintServices.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\SprintService\\SprintServices.csproj"
               }
             }
           }
@@ -269,21 +269,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\SprintService\\SprintServices.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\SprintService\\SprintServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\SprintService\\SprintServices.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\SprintService\\SprintServices.csproj",
         "projectName": "SprintServices",
-        "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\SprintService\\SprintServices.csproj",
-        "packagesPath": "C:\\Users\\Valy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\SprintService\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\SprintService\\SprintServices.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\SprintService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Valy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -297,11 +297,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
-                "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
               },
-              "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\PbiServices\\PbiServices.csproj": {
-                "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\PbiServices\\PbiServices.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\PbiServices\\PbiServices.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\PbiServices\\PbiServices.csproj"
               }
             }
           }
@@ -369,21 +369,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj",
         "projectName": "TaskManagementApp",
-        "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj",
-        "packagesPath": "C:\\Users\\Valy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\TaskManagementApp\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\TaskManagementApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Valy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -397,17 +397,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj": {
-                "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj"
               },
-              "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
-                "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
               },
-              "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj": {
-                "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj"
               },
-              "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\UserService\\UserServices.csproj": {
-                "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\UserService\\UserServices.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\UserService\\UserServices.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\UserService\\UserServices.csproj"
               }
             }
           }
@@ -474,21 +474,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\TasksServices\\TasksServices.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\TasksServices\\TasksServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\TasksServices\\TasksServices.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\TasksServices\\TasksServices.csproj",
         "projectName": "TasksServices",
-        "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\TasksServices\\TasksServices.csproj",
-        "packagesPath": "C:\\Users\\Valy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\TasksServices\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\TasksServices\\TasksServices.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\TasksServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Valy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -502,8 +502,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
-                "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
               }
             }
           }
@@ -533,21 +533,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\UserService\\UserServices.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\UserService\\UserServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\UserService\\UserServices.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\UserService\\UserServices.csproj",
         "projectName": "UserServices",
-        "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\UserService\\UserServices.csproj",
-        "packagesPath": "C:\\Users\\Valy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\UserService\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\UserService\\UserServices.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\UserService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Valy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -561,14 +561,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj": {
-                "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj"
               },
-              "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
-                "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
               },
-              "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj": {
-                "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj"
               }
             }
           }
@@ -644,7 +644,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

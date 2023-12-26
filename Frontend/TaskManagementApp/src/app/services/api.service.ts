@@ -9,15 +9,15 @@ import { User } from 'src/app/models/User';
 export class ApiService {
   constructor(private http: HttpClient) {}
 
-  private urlGetAllUsers = 'https://localhost:44332/api/User/GetAllUsers';
-  private urlGetUserById = 'https://localhost:44332/api/User/GetUserById/';
+  private urlGetAllUsers = 'https://localhost:7098/api/User/GetAllUsers';
+  private urlGetUserById = 'https://localhost:7098/api/User/GetUserById/';
   private urlGetUsersByProjectId =
-    'https://localhost:44332/api/User/UsersByProject/';
+    'https://localhost:7098/api/User/UsersByProject/';
   private urlGetUserByUsername =
-    'https://localhost:44332/api/User/GetUserByUsername/';
-  private urlEnrollUser = 'https://localhost:44332/api/User/EnrollUser/';
+    'https://localhost:7098/api/User/GetUserByUsername/';
+  private urlEnrollUser = 'https://localhost:7098/api/User/EnrollUser/';
   private urlDisenrollUser =
-    'https://localhost:44332/api/User/DeleteAssignment/';
+    'https://localhost:7098/api/User/DeleteAssignment/';
   // get(url: string, Params?: Params): Observable<any> {
   //   let token = localStorage.getItem('token') || '';
   //   return this.http.get<User>(this._url, {

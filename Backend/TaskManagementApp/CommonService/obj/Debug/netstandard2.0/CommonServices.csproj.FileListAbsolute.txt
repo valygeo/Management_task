@@ -18,3 +18,14 @@ E:\PracticaSiemens\Backend\TaskManagementApp\CommonService\obj\Debug\netstandard
 E:\PracticaSiemens\Backend\TaskManagementApp\CommonService\obj\Debug\netstandard2.0\CommonServices.csproj.CoreCompileInputs.cache
 E:\PracticaSiemens\Backend\TaskManagementApp\CommonService\obj\Debug\netstandard2.0\CommonServices.dll
 E:\PracticaSiemens\Backend\TaskManagementApp\CommonService\obj\Debug\netstandard2.0\CommonServices.pdb
+C:\Users\Lenovo\Documents\GitHub\Management_task\Backend\TaskManagementApp\CommonService\bin\Debug\netstandard2.0\CommonServices.deps.json
+C:\Users\Lenovo\Documents\GitHub\Management_task\Backend\TaskManagementApp\CommonService\bin\Debug\netstandard2.0\CommonServices.dll
+C:\Users\Lenovo\Documents\GitHub\Management_task\Backend\TaskManagementApp\CommonService\bin\Debug\netstandard2.0\CommonServices.pdb
+C:\Users\Lenovo\Documents\GitHub\Management_task\Backend\TaskManagementApp\CommonService\obj\Debug\netstandard2.0\CommonServices.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Management_task\Backend\TaskManagementApp\CommonService\obj\Debug\netstandard2.0\CommonServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\Management_task\Backend\TaskManagementApp\CommonService\obj\Debug\netstandard2.0\CommonServices.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Management_task\Backend\TaskManagementApp\CommonService\obj\Debug\netstandard2.0\CommonServices.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\Management_task\Backend\TaskManagementApp\CommonService\obj\Debug\netstandard2.0\CommonServices.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Management_task\Backend\TaskManagementApp\CommonService\obj\Debug\netstandard2.0\CommonServices.sourcelink.json
+C:\Users\Lenovo\Documents\GitHub\Management_task\Backend\TaskManagementApp\CommonService\obj\Debug\netstandard2.0\CommonServices.dll
+C:\Users\Lenovo\Documents\GitHub\Management_task\Backend\TaskManagementApp\CommonService\obj\Debug\netstandard2.0\CommonServices.pdb

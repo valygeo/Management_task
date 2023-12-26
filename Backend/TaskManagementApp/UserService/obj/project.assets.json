@@ -6831,19 +6831,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Valy\\.nuget\\packages\\": {}
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\UserService\\UserServices.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\UserService\\UserServices.csproj",
       "projectName": "UserServices",
-      "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\UserService\\UserServices.csproj",
-      "packagesPath": "C:\\Users\\Valy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\UserService\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\UserService\\UserServices.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\UserService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Valy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6857,14 +6857,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj": {
-              "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj"
+            "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\AssignmentServices\\AssignmentServices.csproj"
             },
-            "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
-              "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
+            "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\CommonService\\CommonServices.csproj"
             },
-            "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj": {
-              "projectPath": "C:\\Users\\Valy\\Documents\\GitHub\\Practica2022\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj"
+            "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Management_task\\Backend\\TaskManagementApp\\ProjectServices\\ProjectServices.csproj"
             }
           }
         }
@@ -6940,7 +6940,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -6951,6 +6951,16 @@
       "warningLevel": 1,
       "message": "Detected package version outside of dependency constraint: Castle.Windsor 5.1.2 requires Castle.Core (>= 4.4.1 && < 5.0.0) but version Castle.Core 5.1.0 was resolved.",
       "libraryId": "Castle.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Data.SqlClient' 4.8.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-8g2p-5pqh-5jmc",
+      "libraryId": "System.Data.SqlClient",
       "targetGraphs": [
         "net6.0"
       ]
